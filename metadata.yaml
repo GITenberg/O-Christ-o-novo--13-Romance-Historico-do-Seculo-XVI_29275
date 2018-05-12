@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33809'
     url: http://www.gutenberg.org/2009/agents/33809
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29275#O-Christ-o-novo--13-Romance-Historico-do-Seculo-XVI
 gutenberg_bookshelf: PT Romance
 gutenberg_issued: '2009-06-30'
 gutenberg_type: Text
