@@ -1,0 +1,27 @@
+_repo: O-Christ-o-novo--13-Romance-Historico-do-Seculo-XVI_29275
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macedo, Diogo de
+    birthdate: 1844
+    gutenberg_agent_id: '33809'
+    url: http://www.gutenberg.org/2009/agents/33809
+description: ''
+gutenberg_bookshelf: PT Romance
+gutenberg_issued: '2009-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29275'
+  lccn: '44016017'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portugal -- History -- John III, 1521-1557 -- Fiction'
+title: "O Christão novo\r\nRomance Historico do Seculo XVI"
+url: http://www.gutenberg.org/ebooks/29275
